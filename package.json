@@ -1,0 +1,23 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "使用node搭建静态服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjs-jacky/node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjs-jacky/node-server/issues"
+  },
+  "homepage": "https://github.com/wangjs-jacky/node-server#readme",
+  "dependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}
