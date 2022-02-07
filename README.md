@@ -28,4 +28,4 @@ curl -v -d "name=wangjiasheng" http://localhost:8888
 ```
 
 2.2 浏览器发出GET请求
-在`chrome` 直接输入 http://localhost:8888
+在`chrome` 直接输入 http://localhost:8888 
